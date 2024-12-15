@@ -1,0 +1,20 @@
+驗證器 sent an attachment: https://cdn.discordapp.com/attachments/1159469364966342708/1238141050560843787/20240509225030_message_backup.txt?ex=663e3436&is=663ce2b6&hm=8d8c542e83832c477be39abef0b3a6224ff4d0790341c1bf041e431e111f918e&
+wesily_test: a!copy 20
+驗證器 sent an attachment: https://cdn.discordapp.com/attachments/1159469364966342708/1238141560315707465/20240509225232_message_backup.txt?ex=663e34af&is=663ce32f&hm=82ddd76a3443653782cc51ce5e5482c7ba08a88261c4f9b132909dab7164a7e0&
+驗證器: 你必須擁有特定身分組才能使用此指令
+驗證器: 你必須擁有特定身分組才能使用此指令
+驗證器: <@1013803104287867011> 已成功加入身分組 以驗證
+驗證器: <@1013803104287867011> 已從身分組 以驗證 中移除
+驗證器: <@1013803104287867011> 已成功加入身分組 以驗證
+驗證器: <@1013803104287867011> 已從身分組 以驗證 中移除
+wesily_test: a!copy 20
+wesily_test: a!copy 20
+驗證器 sent an attachment: https://cdn.discordapp.com/attachments/1159469364966342708/1238142798172262508/20240509225727_message_backup.txt?ex=663e35d6&is=663ce456&hm=fe120a0480214d26fa0d4d818b65d6836e900f625b55eb78cf98c61e64d38b65&
+wesily_test: a!copy 20
+wesily_test: a!copy 20
+wesily_test: a!copy 20
+wesily_test: a!help
+wesily_test: a!copy 20
+wesily_test: a!copy 20
+驗證器 sent an attachment: https://cdn.discordapp.com/attachments/1159469364966342708/1238143109725159507/20240509225840_message_backup.txt?ex=663e3620&is=663ce4a0&hm=9a03d61f01fb2bce9f0c8f96cc3aba9e479a015bda7b275a5245ab3474072033&
+wesily_test: a!copy 20
